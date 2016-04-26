@@ -1,3 +1,3 @@
 # test-shield
 
-[![GitHub Reviews](https://githubreviews.com/shield/twbs/bootstrap.svg)](https://githubreviews.com/twbs/bootstrap)
+[![GitHub Reviews](https://githubreviews.com/shield/jquery/jquery.svg)](https://githubreviews.com/jquery/jquery)
