@@ -1,3 +1,3 @@
 # test-shield
 
-[![GitHub Reviews](https://githubreviews.com/shield/jquery/jquery.svg?ok)](https://githubreviews.com/jquery/jquery)
+[![GitHub Reviews](https://github-reviews-staging.herokuapp.com/shield/theory/sqitch.svg)](https://github-reviews-staging.herokuapp.com/theory/sqitch)
