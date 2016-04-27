@@ -1,3 +1,3 @@
 # test-shield
 
-[![GitHub Reviews](https://githubreviews.com/shield/jashkenas/underscore.svg)](https://githubreviews.com/jashkenas/underscore)
+[![GitHub Reviews](https://github-reviews-staging.herokuapp.com/shield/mjackson/http-client.svg)](https://github-reviews-staging.herokuapp.com/mjackson/http-client)
