@@ -1,3 +1,3 @@
 # test-shield
 
-[![GitHub Reviews](https://githubreviews.com/shield/jquery/jquery.svg?nice)](https://githubreviews.com/jquery/jquery)
+[![GitHub Reviews](https://githubreviews.com/shield/jashkenas/underscore.svg)](https://githubreviews.com/jashkenas/underscore)
