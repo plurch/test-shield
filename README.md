@@ -1,3 +1,3 @@
 # test-shield
 
-[![GitHub Reviews](https://githubreviews.com/shield/jquery/jquery.svg)](https://githubreviews.com/jquery/jquery)
+[![GitHub Reviews](https://githubreviews.com/shield/jquery/jquery.svg?ok)](https://githubreviews.com/jquery/jquery)
