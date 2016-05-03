@@ -9,3 +9,5 @@ Working:
 Not Working:
 
 [![GitHub Reviews](https://githubreviews.com/shield/jashkenas/underscore.svg)](https://githubreviews.com/jashkenas/underscore)
+
+[![GitHub Reviews](https://githubreviews.com/shield/sequelize/sequelize.svg)](https://githubreviews.com/sequelize/sequelize)
